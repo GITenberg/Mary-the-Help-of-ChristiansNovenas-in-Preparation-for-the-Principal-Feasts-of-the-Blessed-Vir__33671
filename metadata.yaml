@@ -1,0 +1,34 @@
+_repo: Mary-the-Help-of-ChristiansNovenas-in-Preparation-for-the-Principal-Feasts-of-the-Blessed-Vir__33671
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hammer, Bonaventure
+    aliases:
+    - Hammer, B. (Bonaventure)
+    - Hammer, Bonaventura
+    birthdate: 1842
+    deathdate: 1917
+    gutenberg_agent_id: '36489'
+    url: http://www.gutenberg.org/2009/agents/36489
+description: ''
+gutenberg_issued: '2010-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian saints -- Prayers and devotions'
+- !lcsh 'Christian saints -- Cult'
+- !lcsh 'Catholic Church -- Prayers and devotions'
+- !lcsh 'Mary, Blessed Virgin, Saint -- Prayers and devotions'
+- !lcc 'BX'
+title: 'Mary, the Help of Christians
+
+  Novenas in Preparation for the Principal Feasts of the Blessed Virgin'
+url: http://www.gutenberg.org/ebooks/33671
